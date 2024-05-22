@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NMapsGeometry",
+        "repositoryURL": "https://github.com/myrealtrip/NMapsGeometry",
+        "state": {
+          "branch": null,
+          "revision": "dd0438da2b96f18ae159e4fd0667f296054840f7",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
